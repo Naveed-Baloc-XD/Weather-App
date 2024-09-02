@@ -108,7 +108,7 @@ const Weather = () => {
               °c
             </h1>
             <h3 className=" text-white pt-2 text-center">
-              🐱‍👤{weatherData.location}🖤
+              🔥{weatherData.location}🖤
             </h3>
           </div>
           <section className="flex pt-4 items-center gap-6 mt-4 ml-11 ">
